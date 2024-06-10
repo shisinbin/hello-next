@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import React from 'react';
 
+export const dynamic = 'force-dynamic';
+
 function Home() {
   return (
     <main>
